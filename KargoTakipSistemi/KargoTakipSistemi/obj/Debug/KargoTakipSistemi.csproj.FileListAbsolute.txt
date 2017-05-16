@@ -1,0 +1,22 @@
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csprojResolveAssemblyReference.cache
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Form1.resources
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Properties.Resources.resources
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csproj.GenerateResource.Cache
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe.config
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.pdb
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.exe
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.pdb
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Yonetim.resources
+c:\users\blgn6\onedrive\belgeler\visual studio 2017\Projects\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.KargoTakipEt.resources
+C:\Users\blgn6\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\blgn6\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Form1.resources
+C:\Users\blgn6\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.KargoTakipEt.resources
+C:\Users\blgn6\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Properties.Resources.resources
+C:\Users\blgn6\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.Yonetim.resources
+C:\Users\blgn6\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\blgn6\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.exe
+C:\Users\blgn6\Desktop\KargoTakipSistemi\KargoTakipSistemi\obj\Debug\KargoTakipSistemi.pdb
+C:\Users\blgn6\Desktop\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe.config
+C:\Users\blgn6\Desktop\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.exe
+C:\Users\blgn6\Desktop\KargoTakipSistemi\KargoTakipSistemi\bin\Debug\KargoTakipSistemi.pdb
